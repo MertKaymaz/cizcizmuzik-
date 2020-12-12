@@ -1,1 +1,1 @@
-# cizcizmuzik-
+# CızCızMüzik+ Discord Botunun herkeze Açık Altypaısıdır
